@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/698a5bdf-be95-434e-80cf-8508c46ceeee)# Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
